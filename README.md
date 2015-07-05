@@ -1,6 +1,6 @@
-# NeManager [![Build Status](http://i.imgur.com/2Rgzm63.png)](http://nemanager.com)
+# NeManager
 
-NeManager is a multi-server Minecraft control panel.
+NeManager is a real-time multi-server Minecraft control panel.
 
 ## Features
 ***Panel***
@@ -9,6 +9,8 @@ NeManager is a multi-server Minecraft control panel.
 * Advanced permissions for different user groups
 * Email notification when server goes offline
 * Two-Factor Authentication to make your account even more secure
+* **True real-time** server management.<br>
+_We can proudly say that NeManager is the only Minecraft panel that offers **true** real-time server management from a distance. Type something on the server and see it instantly in the console inside NeManager. **True** real-time compared to other panels such as Multicraft and McMyAdmin!_
 
 ***Server***
 * Sleek and fast console for easy server management
