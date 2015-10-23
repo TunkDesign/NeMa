@@ -1,5 +1,5 @@
 # NeManager
-###### Version 2.0
+###### Version 2.0.1
 NeManager is a real-time multi-server Minecraft control panel.
 
 ## Features
@@ -19,8 +19,7 @@ _We can proudly say that NeManager is the only Minecraft panel that offers **tru
 * World management
 * Advanced easy to use configuration
 * Backup system with cloud storage
-* Task management to schedule commands to be run at specified times
-* System information on the machine that is running the server
+* Super flexible scheduling system that takes advantages of the cron syntax
 
 ***Wrapper***
 * Works on Windows **(Vista +)**, Linux **(CentOS 5 +)**
