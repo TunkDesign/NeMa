@@ -1,5 +1,5 @@
 # NeManager
-###### Version 2.0.1
+###### Version 2.1.0
 NeManager is a real-time multi-server Minecraft control panel.
 
 ## Features
